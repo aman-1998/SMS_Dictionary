@@ -30,16 +30,18 @@ For all inputs, 1 ≤ M ≤ 100000. Each word in the dictionary is at most 8 cha
 Example
 Here is the sample input and output corresponding to the example discussed above.
 
-Sample input 1
+Sample input 1:
 4
 at
 on
 good
 no
-Sample output 1
+
+Sample output 1:
 66
 
-Sample input 2
+
+Sample input 2:
 6
 at
 on
@@ -47,5 +49,6 @@ good
 no
 home
 gone
-Sample output 2
+
+Sample output 2:
 4663
